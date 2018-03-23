@@ -44,22 +44,6 @@ Faire un insert
 
 db.tournage.insert({dataseid :  ‘tournagesdefilmsparis2011’, "recordid" : ‘d77fabba3250022889dacba7429ec107368f0ccf’, fields.tipe_tournage : ‘SERIE TELEVISEE’, fields.organisme_demandeur : ‘CALT PRODUCTION’, fields.adresse : ‘97  BOULEVARD  HAUSSMANN’, fields.date_fin : “2016-03-22”, fields.realisateur : ‘MARINE HUERTAS’, fields.xy : [48.874813,2.31818], fields.ardt : 75008 , fields.titre : ‘CODING LIFE’, fields.date_debut : “2016-03-22”, geometry.type: ‘Point’, geometry.coordinate: [2.31818,48.874813]};
 
-		"xy" : [
-			48.874813,
-			2.31818
-		],
-		"ardt" : 75008,
-		"titre" : "CHEFS - SAISON 2",
-		"date_debut" : "2016-03-22"
-	},
-	"geometry" : {
-		"type" : "Point",
-		"coordinates" : [
-			2.31818,
-			48.874813
-		]
-	},
-
 
 Nombre de tournages réalisés pendant un trimestre
 
